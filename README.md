@@ -187,22 +187,22 @@ spring.jpa.properties.hibernate.format_sql=true
 ## Evidencias
 
 1. **XAMPP con MySQL RUNNING**  
-   ![XAMPP MySQL](docs/screenshots/01-xampp-mysql-running.png)
+   ![XAMPP MySQL](docs/screenshots/01-xampp-mysql-running.PNG)
 
 2. **phpMyAdmin: base `develop_db` creada**  
-   ![phpMyAdmin DB](docs/screenshots/02-phpmyadmin-db-created.png)
+   ![phpMyAdmin DB](docs/screenshots/02-phpmyadmin-db-created.PNG)
 
 3. **`application.properties` configurado**  
-   ![application.properties](docs/screenshots/03-application-properties.png)
+   ![application.properties](docs/screenshots/03-application-properties.PNG)
 
 4. **Consola: `gradlew bootRun` exitoso**  
-   ![bootRun ok](docs/screenshots/04-gradle-bootrun-success.png)
+   ![bootRun ok](docs/screenshots/04-gradle-bootrun-success.PNG)
 
 5. **Tablas creadas (`usuarios`, `docentes`, `cursos`)**  
-   ![Tablas creadas](docs/screenshots/05-phpmyadmin-tables.png)
+   ![Tablas creadas](docs/screenshots/05-phpmyadmin-tables.PNG)
 
 6. **Diagrama ER de `develop_db`** *(opcional)*  
-   ![Diagrama ER](docs/screenshots/06-phpmyadmin-er.png)
+   ![Diagrama ER](docs/screenshots/06-phpmyadmin-er.PNG)
 
 
 ---
