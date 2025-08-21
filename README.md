@@ -184,12 +184,26 @@ spring.jpa.properties.hibernate.format_sql=true
 
 ---
 
-## 8) Evidencias (capturas sugeridas)
-1. **01-xampp-mysql-running.png** — XAMPP con MySQL en **Running** (puerto 3306/3307).  
-2. **02-phpmyadmin-db-created.png** — `develop_db` creada (Structure).  
-3. **03-application-properties.png** — propiedades de conexión configuradas.  
-4. **04-gradle-bootrun-success.png** — consola con “Started Examen1Back2Application”.  
-5. **05-phpmyadmin-tables.png** — tablas `usuarios`, `docentes`, `cursos` creadas.
+## Evidencias
+
+1. **XAMPP con MySQL RUNNING**  
+   ![XAMPP MySQL](docs/screenshots/01-xampp-mysql-running.png)
+
+2. **phpMyAdmin: base `develop_db` creada**  
+   ![phpMyAdmin DB](docs/screenshots/02-phpmyadmin-db-created.png)
+
+3. **`application.properties` configurado**  
+   ![application.properties](docs/screenshots/03-application-properties.png)
+
+4. **Consola: `gradlew bootRun` exitoso**  
+   ![bootRun ok](docs/screenshots/04-gradle-bootrun-success.png)
+
+5. **Tablas creadas (`usuarios`, `docentes`, `cursos`)**  
+   ![Tablas creadas](docs/screenshots/05-phpmyadmin-tables.png)
+
+6. **Diagrama ER de `develop_db`** *(opcional)*  
+   ![Diagrama ER](docs/screenshots/06-phpmyadmin-er.png)
+
 
 ---
 
