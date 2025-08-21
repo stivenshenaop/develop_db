@@ -201,8 +201,7 @@ spring.jpa.properties.hibernate.format_sql=true
 5. **Tablas creadas (`usuarios`, `docentes`, `cursos`)**  
    ![Tablas creadas](docs/screenshots/05-phpmyadmin-tables.PNG)
 
-6. **Diagrama ER de `develop_db`** *(opcional)*  
-   ![Diagrama ER](docs/screenshots/06-phpmyadmin-er.PNG)
+
 
 
 ---
